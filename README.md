@@ -16,7 +16,7 @@
 - لا يُسمح بإعادة بيع، إعادة توزيع، أو التعديل على البرنامج دون إذن كتابي من المطور.  
 
 ### 2️⃣ **نطاق الاستخدام**  
-- هذا البرنامج مخصص فقط لأجهزة الكمبيوتر (Windows/Mac).  
+- هذا البرنامج مخصص فقط لأجهزة الكمبيوتر (Windows).  
 - يُسمح باستخدام البرنامج على جهاز واحد لكل اشتراك مدفوع.  
 - يُمنع استخدام البرنامج لأغراض غير قانونية أو انتهاك سياسات الألعاب.  
 
@@ -53,7 +53,7 @@
 - Redistribution, resale, or modification of the software without written permission is strictly prohibited.  
 
 #### 2️⃣ **Usage Scope**  
-- This software is exclusively for PC (Windows/Mac) use.  
+- This software is exclusively for PC (Windows) use.  
 - Each paid subscription grants usage on a single device only.  
 - Using the software for illegal activities or violating game policies is strictly forbidden.  
 
